@@ -1,0 +1,17 @@
+
+
+.card form button{
+  background-color: rgb(119, 135, 150);
+  border-radius: 5px;
+  width: 40%;
+  padding:5px;
+} 
+
+.card form button:hover{
+ cursor:pointer;
+ background-color: blue;
+} 
+
+.card form input{
+  padding: 5px;;
+}
